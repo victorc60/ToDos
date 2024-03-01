@@ -19,9 +19,6 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 });
 
-// 1. Get real users list from https://jsonplaceholder.typicode.com/
-// 2. When setting user ID get this user ToDos
-// 3. When checking a todo, set it's status to done and send the "completed" value to server using PUT
 
 
 // FETCH 
